@@ -1,6 +1,6 @@
 # PCAP Analysis Project - Credential Extraction
 
-https://github.com/Andre2404/PCAP-traffic-analysis/blob/main/Wireshark%20Capture.PNG
+![Image](https://github.com/Andre2404/PCAP-traffic-analysis/blob/main/Wireshark%20Capture.PNG)
 
 ## Project Overview
 This project demonstrates network forensic analysis capabilities by extracting clear-text credentials from PCAP files using Wireshark. The analysis successfully identified multiple user credentials transmitted over unencrypted HTTP protocols, highlighting critical security vulnerabilities in network communications.
